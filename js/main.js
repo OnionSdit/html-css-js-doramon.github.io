@@ -41,7 +41,7 @@ RightMon.onmouseleave = () => {
 
 
 FootMon.onmouseover = () => {
-    status.innerText = "ĐÂY LÀ CÁI CHÂN! ";
+    status.innerText = "ĐÂY LÀ CÁI CHÂN ! ";
 }
 
 FootMon.onmouseleave = () => {
